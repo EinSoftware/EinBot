@@ -2,7 +2,7 @@
 // |__) /  \  |  |__/ |  |  
 // |__) \__/  |  |  \ |  |  
 
-// This is the main file for the EinBot bot.
+// This is the main file for the test-widget bot.
 
 // Import Botkit's core features
 const { Botkit } = require('botkit');
